@@ -1,7 +1,7 @@
 {
   "name": "alexetmanon-api",
   "version": "0.0.1",
-  "description": "",
+  "description": "Alex et Manon natural language processing API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alexetmanon/alexetmanon-api/issues"
   },
-  "homepage": "https://github.com/alexetmanon/alexetmanon-api#readme"
+  "homepage": "https://github.com/alexetmanon/alexetmanon-api#readme",
+  "dependencies": {
+    "restify": "4.1.1"
+  }
 }
