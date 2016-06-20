@@ -1,0 +1,64 @@
+[
+    {
+        "label": "bot",
+        "sample": "Parle moi de toi"
+    },
+    {
+        "label": "bot",
+        "sample": "dis moi qui tu es"
+    },
+    {
+        "label": "bot",
+        "sample": "Qui es-tu"
+    },
+    {
+        "label": "bot",
+        "sample": "comment tu t'appelles"
+    },
+    {
+        "label": "bot",
+        "sample": "T'es qui"
+    },
+
+    {
+        "label": "manon",
+        "sample": "parle moi de manon"
+    },
+    {
+        "label": "manon",
+        "sample": "qui est manon au juste"
+    },
+    {
+        "label": "manon",
+        "sample": "elle fait quoi manon"
+    },
+    {
+        "label": "manon",
+        "sample": "c'est qui manon"
+    },
+    {
+        "label": "manon",
+        "sample": "dis moi qui est manon verbeke"
+    },
+
+    {
+        "label": "alex",
+        "sample": "dis moi qui est alex"
+    },
+    {
+        "label": "alex",
+        "sample": "c'est quoi le metier d'alex"
+    },
+    {
+        "label": "alex",
+        "sample": "c'est qui alex au juste"
+    },
+    {
+        "label": "alex",
+        "sample": "qui est alexandre bonhomme"
+    },
+    {
+        "label": "alex",
+        "sample": "parle moi d'alexandre s'il te plait"
+    }
+]
