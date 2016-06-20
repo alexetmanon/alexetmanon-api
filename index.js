@@ -40,6 +40,9 @@ console.log('Classifier training...');
 classifier.train();
 
 // run server
-server.listen(8080, function () {
+var port = process.env.OPENSHIFT_NODEJS_PORT || 8080,
+    host = process.env.OPENSHIFT_NODEJS_IP || '127.0.0.1';
+
+server.listen(port, host, function () {
     console.log('%s listening at %s', server.name, server.url);
 });
